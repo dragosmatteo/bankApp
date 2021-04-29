@@ -1,6 +1,6 @@
 # bankApp
 
- In this application I deepened my knowledge in javascript, the application is based on array methods.
+ In this application I deepened my knowledge in Javascript, the application is based on array methods.
  
  The first time you put the data from the bank account that is predefined, click on the arrow and it shows you the data from your account (which are predefined from the code).
  If you want to transfer money to someone, it must already be registered and not be an amount that exceeds your total.
