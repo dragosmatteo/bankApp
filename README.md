@@ -8,4 +8,4 @@
  If you want to log out, you must enter the correct account name and pin.
  When you press the sort button it sorts your trading data ascending, we used the sort method.
 
-To as many achievements as possible! :)
+To as many achievements as possible!
