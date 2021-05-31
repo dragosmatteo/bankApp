@@ -247,7 +247,7 @@ labelBalance.addEventListener('click', function () {
 
   const movementsUI2 = [...document.querySelectorAll('.movements__value')];
 });
-<<<<<<< HEAD
+// <<<<<<< HEAD
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
 
@@ -398,8 +398,4 @@ console.log(11n / 3n); // partea intreaga
 console.log(10 / 3); // cu virgula
 
 
-=======
-
-
 //////////////////////////////////////////////////////////////////////////
->>>>>>> 65e403ee4251af9f3e0037c866e725d2216a88c6
